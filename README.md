@@ -5,5 +5,5 @@ This project centers on a pioneering architecture that seamlessly integrates fee
 
 The FDA underscores the fusion of text mining and NLP techniques to decipher narrative feedback. Utilizing Python, I executed intricate data analysis, spotlighting my prowess in programming and knack for translating cutting-edge technologies into tangible, real-world applications. Explore the repository to witness the synergy of education, technology, and practicality in this dynamic project.
 
-***CONTENTs***
-- Under construction -
+***CONTENTS***
+*Under construction*
